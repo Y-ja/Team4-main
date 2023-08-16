@@ -1,7 +1,4 @@
 body{
-   /* background: #CEE3F6; */
-   /* background: #8181F7; */
-   /* background: #A9D0F5; */
    background: #A9BCF5;
 }
 h1{
@@ -14,6 +11,7 @@ h2{
     text-align: center;
     color: #fff;
     font-family: DM Serif Display;
+    
 }
 img{
             
