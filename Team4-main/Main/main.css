@@ -1,23 +1,28 @@
 body{
-   background: #A9BCF5;
+    background: #A9BCF5;
+ }
+header .header{
+    background: #1C1C1C;
 }
 h1{
     text-align: center;
     font-size: 140px;
     color: #fff;
     font-family: DM Serif Display;
+    text-shadow: 2px 2px 2px gray;
 }
 h2{
     text-align: center;
     color: #fff;
     font-family: DM Serif Display;
-    
+    text-shadow: 2px 2px 2px #6E6E6E;
 }
 img{
-            
-    border : 0;
+    padding: 5px;
+    border : 15px solid white; 
     width: 300px;
     height: 300px;
+    /* filter: drop-shadow(10px 6px 6px #6E6E6E); */
 }
 div{
     text-align: center;
