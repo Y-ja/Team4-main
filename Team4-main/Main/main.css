@@ -1,5 +1,6 @@
 body{
-    background:#0489B1;
+    background-image: url(./9.png);
+    background-size: cover;
  }
 header .header{
     background: #1C1C1C;
@@ -20,8 +21,8 @@ h2{
 img{
     padding: 5px;
     border : 15px solid white; 
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     filter: drop-shadow(10px 6px 6px #6E6E6E);
 }
 div{

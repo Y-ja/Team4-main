@@ -1,6 +1,7 @@
 .wrapper{
     /* background: #A9BCF5; */
-    background: rgb(13, 39, 57);
+    background-image: url(./3.jpg);
+    background-size: cover;
     width: 100%;
 
 }
@@ -49,19 +50,25 @@
   
 
 }
+
 .wrapper .main-body2{
+    font-size: 10em;
+    color: #fff;
+
+}
+.wrapper .main-body3{
+    font-size: 0.9em;
+    color: #fff;
+
+}
+.wrapper .main-body4{
     position: relative;
         left: 300px;
         top: 50px;
 }
-.wrapper .main-body2 .main-body2-img2{
+.wrapper .main-body4 .main-body2-img2{
     width: 200px;
     height: 100px;
-
-}
-.wrapper .main-body3{
-    font-size: 10em;
-    color: #fff;
 
 }
 /*-------------------------main------------------------------------*/
