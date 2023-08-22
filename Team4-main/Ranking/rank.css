@@ -1,5 +1,5 @@
 body{
-    background-image: url(./9.png);
+    background-image: url(./11.png);
     background-size: cover;
  }
 header .header{
@@ -8,23 +8,24 @@ header .header{
 h1{
     text-align: center;
     font-size: 140px;
-    color: #E6E6E6;
+    color: whitesmoke;
     font-family: 'NeoDunggeunmo';
     text-shadow: 2px 2px 2px gray;
 }
 h2{
     text-align: center;
-    color: #E6E6E6;
+    color: whitesmoke;
     font-family: 'NeoDunggeunmo';
     text-shadow: 2px 2px 2px darkgray;
 }
 img{
     padding: 5px;
     border : 15px solid white; 
-    width: 350px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
     filter: drop-shadow(10px 6px 6px #6E6E6E);
 }
+
 div{
     text-align: center;
 }
